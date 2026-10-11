@@ -1,0 +1,5 @@
+MAGneT-3D cross-dataset benchmark
+
+This package is based on the nuScenes devkit (https://github.com/nutonomy/nuscenes-devkit),
+Copyright 2021 Motional, licensed under the Apache License, Version 2.0.
+The files adapted from the devkit are marked "Modified for the MAGneT-3D cross-dataset benchmark."
